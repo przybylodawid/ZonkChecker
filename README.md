@@ -18,3 +18,5 @@ Użytkownik wybiera ilość bramek z zakresu 3-100
 Użytkownik wybiera ilość symulacji z zakresu 100-1000
 
 Użyte technologie: JS, jQuery
+
+![](Przechwytywanie.JPG)
